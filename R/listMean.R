@@ -1,4 +1,4 @@
-#' Greeting function
+#' Mean of list elements
 #'
 #' Calculates mean of each vector in a list
 #' @param x list of vectors
