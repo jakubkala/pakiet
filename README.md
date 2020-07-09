@@ -5,3 +5,4 @@
 [![Codecov test coverage](https://codecov.io/gh/jakubkala/pakiet/branch/master/graph/badge.svg)](https://codecov.io/gh/jakubkala/pakiet?branch=master)
 ![pkgdown](https://github.com/jakubkala/pakiet/workflows/pkgdown/badge.svg)
 <!-- badges: end -->
+...
